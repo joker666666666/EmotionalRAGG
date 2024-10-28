@@ -1,0 +1,3 @@
+OPENAI_API_BASE = "https://cn2us02.opapi.win/v1"
+MODEL_NAME = "gpt-4-turbo"
+OPENAI_API_KEY = "sk-eYL6X2jG2af7f134f3c3T3BlBkFJ4Ec84A636f314414b8cC"
